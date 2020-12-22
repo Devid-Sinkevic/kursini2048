@@ -1,0 +1,6 @@
+﻿  MAP.cpp
+  main.cpp
+D:\VGTU\3 Kursas\Programu Sistemu Projektavimas\2048 Mark II\2048 Mark II\main.cpp(44,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\VGTU\3 Kursas\Programu Sistemu Projektavimas\2048 Mark II\2048 Mark II\main.cpp(44,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  2048 Mark II.vcxproj -> D:\VGTU\3 Kursas\Programu Sistemu Projektavimas\2048 Mark II\Debug\2048 Mark II.exe
